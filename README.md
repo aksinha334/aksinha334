@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @aksinha334
-- 👀 I’m interested in Everything under the Sun.
-- 🌱 I’m currently learning Solidity.
-- 💞️ I’m looking to collaborate on Smart contracts.
-- 📫 How to reach me on LinkedIn in profile.
+- 👋 Hi, I’m Abhishek Sinha
+- 👀 I’m interested in code and solving problems.
+- 🌱 I’m currently learning writing better and beautiful code.
+- 📫 Want to check LinkedIn profile -> https://www.linkedin.com/aksinha334
 
 <!---
 aksinha334/aksinha334 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
